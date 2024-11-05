@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ituwiuji.github.io/CXS/sitemap_index.txt
+Sitemap: https://ituwiuji.github.io/cFf/sitemap_index.txt
+Sitemap: https://ituwiuji.github.io/nWc/sitemap_index.txt
+Sitemap: https://ituwiuji.github.io/sCJ/sitemap_index.txt
